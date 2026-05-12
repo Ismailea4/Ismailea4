@@ -1,8 +1,12 @@
 # Hi there, I'm Ismail 👋
 ### AI Researcher & ML Engineer !!"Future Robotic Engineer"!! 🤖
 
-<div align="right">
-  <img src="img_github.png" width="250" alt="Lo-fi Coding Avatar"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=E34F26&center=true&vCenter=true&width=800&lines=Bridging+Theory+and+Practical+AI;AI+%2B+Physical+Impact+%3D+Robotics;Engineering+Multimodal+Frameworks;Just+you+wait..." alt="Animated Text Banner" />
+</div>
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBydTJ0Mzk1aTU4ZGhzejZndXVjbGQybzB0YW02N3o4YTZweGh5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fQDSHAPEHTzztJJ6Qh/giphy.gif" width="200" alt="AI Network Animation"/>
 </div>
 
 Welcome to my digital workspace! I am passionate about bridging the gap between theoretical artificial intelligence and practical, real-world applications.
